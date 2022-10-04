@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Esdras Fopa
 - 👀 I’m interested in Artficial intelligence, machine learning and cybersecurity
-- 🌱 I’m currently learning how to build software solutions with flutter to meet SDG no8
-- 💞️ I’m looking to collaborate on building a Linux distro
+- 🌱 I’m currently working on building intelligent automated systems grounded on Python
+- 💞️ I’m looking to collab
 - 📫 Reach me on diffouo44@gmail.com let's connect
 
 <!---
